@@ -1,0 +1,6 @@
+{
+  "name": "Yeab Luxury Perfumes",
+  "description": "An elegant, interactive digital atelier for Yeab Perfumes, featuring a curated fragrance catalog and administration dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
